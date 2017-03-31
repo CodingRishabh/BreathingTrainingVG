@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 20d5055fa9ebf2840aff4f1bfce67337
+timeCreated: 1489397317
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Raider Crusader Punch
+  fontNames:
+  - Raider Crusader Punch
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
